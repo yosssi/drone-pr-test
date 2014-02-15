@@ -8,4 +8,4 @@ notify:
   email:
     recipients:
       - yoshida.keiji.84@gmail.com
-
+    send_requestor_on_failure: true
