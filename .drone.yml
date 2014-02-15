@@ -3,6 +3,3 @@ env:
   - GOPATH=/var/cache/drone
 script:
   - echo "test"
-
-
-
