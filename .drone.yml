@@ -3,6 +3,7 @@ env:
   - GOPATH=/var/cache/drone
 script:
   - echo "test"
+  - exit 1
 notify:
   email:
     recipients:
